@@ -122,6 +122,6 @@
 
 1. Check the inflation rate:
     ```sh
-   simd query inflation
+   simd query mint inflation
     ```
 
